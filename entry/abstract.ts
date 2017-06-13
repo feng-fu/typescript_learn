@@ -39,3 +39,5 @@ class AccountingDepartment extends Department {
         console.log('Generating accounting reports...');
     }
 }
+
+//   Error >>>>>>        new DepartMent()    抽象类不能实例化
